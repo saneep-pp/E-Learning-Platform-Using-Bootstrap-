@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img.slide{
+    height: 690px;
+}
+img.size{
+    height: 180px;
+}
+
+.backphoto{
+    background-image: url('./images/contactus1.jpg');
+}
